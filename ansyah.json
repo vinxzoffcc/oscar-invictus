@@ -1,13 +1,8 @@
 [
   {
-    "username": "vall",
-    "password": "vallxoscar",
+    "username": "Ansyahoffc",
+    "password": "TheFierceDevil",
     "role": "admin"
-  },
-  {
-    "username": "vinzz",
-    "password": "vinzoffc14",
-    "role": "owner"
   },
   {
     "username": "vipuser",
@@ -29,4 +24,4 @@
     "password": "memberpass",
     "role": "member"
   }
-]
+ ]
